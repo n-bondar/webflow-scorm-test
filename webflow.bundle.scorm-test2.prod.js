@@ -224,7 +224,7 @@
     /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
     
     "use strict";
-    eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({course:{id:'scorm-test1',name:'scorm test 1',locale:'en',manifest:{'401':[],'404':[],'style-guide':[],intro:[],index:[]},xapi:{endpoint:'MY_ENDPOINT'}}});\n\n//# sourceURL=webpack://webflow_framework/./config.yaml?");
+    eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({course:{id:'scorm-test2',name:'scorm test 2',locale:'en',manifest:{'401':[],'404':[],'style-guide':[],intro:[],index:[]},xapi:{endpoint:'MY_ENDPOINT'}}});\n\n//# sourceURL=webpack://webflow_framework/./config.yaml?");
     
     /***/ }),
     
