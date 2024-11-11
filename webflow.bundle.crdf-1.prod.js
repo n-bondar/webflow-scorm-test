@@ -224,7 +224,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({course:{id:'CRDF_1',name:'CRDF_1',locale:'en',manifest:{'401':[],'404':[],test:[],playground:[],'old-home-2':[],index:[],'final-test':[],asr:[{'data-component':'PassOnView_V1','data-id':'timeis'}],a8:[{'data-component':'PassOnView_V1','data-id':'roundhere'}],a7:[],a6:[{'data-component':'PassOnView_V1','data-id':'wehave'}],a5:[],a4:[],a3:[],a2:[]},xapi:{endpoint:'MY_ENDPOINT'}}});\n\n//# sourceURL=webpack://webflow_framework/./config.yaml?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({course:{id:'crdf-1',name:'CRDF 1',locale:'en',manifest:{'401':[],'404':[],test:[],playground:[],'old-home-2':[],index:[],'final-test':[],asr:[{'data-component':'PassOnView_V1','data-id':'timeis'}],a8:[{'data-component':'PassOnView_V1','data-id':'roundhere'}],a7:[],a6:[{'data-component':'PassOnView_V1','data-id':'wehave'}],a5:[],a4:[],a3:[],a2:[]},xapi:{endpoint:'MY_ENDPOINT'}}});\n\n//# sourceURL=webpack://webflow_framework/./config.yaml?");
 
 /***/ }),
 
